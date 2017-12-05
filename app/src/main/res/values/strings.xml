@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="IpAddress">IP Address:</string>
+    <string name="port">Port:</string>
+    <string name="connect">Connect</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <string name="previous">Previous</string>
+    <string name="currentpageNO">Current Slide</string>
+    <string name="title_activity_remote_control">remote_control</string>
+    <string name="go_slide">Go</string>
+    <string name="totalpageNo">Total Slides</string>
+    <string name="bottom">Note: Connect both devices on same Network</string>
+</resources>
